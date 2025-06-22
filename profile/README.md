@@ -1,6 +1,6 @@
-# Welcome to REX-LABS-Medical-healthcare
+# Welcome to REX LABS [Medical-Healthcare]
 
-## Revolutionizing Healthcare with Open-Source Software
+## Revolutionizing Healthcare with Open-Source Softwares
 
 At **REX-LABS-Medical-healthcare**, we are dedicated to pioneering and developing innovative **open-source software solutions** for the healthcare and medical industries. Our mission is to empower healthcare professionals, researchers, and patients with robust, accessible, and cutting-edge tools that drive progress and improve outcomes.
 
