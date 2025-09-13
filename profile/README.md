@@ -1,8 +1,8 @@
-# Welcome to REX LABS [Medical-Healthcare]
+# Welcome to Curie OpenMed Labs [Medical-Healthcare]
 
 ## Revolutionizing Healthcare with Open-Source Softwares
 
-At **REX-LABS-Medical-healthcare**, we are dedicated to pioneering and developing innovative **open-source software solutions** for the healthcare and medical industries. Our mission is to empower healthcare professionals, researchers, and patients with robust, accessible, and cutting-edge tools that drive progress and improve outcomes.
+At **Curie OpenMed Labs**, we are dedicated to pioneering and developing innovative **open-source software solutions** for the healthcare and medical industries. Our mission is to empower healthcare professionals, researchers, and patients with robust, accessible, and cutting-edge tools that drive progress and improve outcomes.
 
 ---
 
@@ -51,7 +51,7 @@ For general inquiries, collaborations, or partnership opportunities, please feel
 
 ---
 
-Thank you for visiting REX-LABS-Medical-healthcare. Together, let's build the future of medical software!
+Thank you for visiting Curie OpenMed Labs. Together, let's build the future of medical software!
 
 ---
 *Follow us on GitHub to stay updated with our latest developments.*
